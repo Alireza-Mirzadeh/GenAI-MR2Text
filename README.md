@@ -67,7 +67,7 @@ cd t5-genai-e2e-nlg](https://github.com/Alireza-Mirzadeh/GenAI-MR2Text.git)
 * `matplotlib`
 * `tqdm`
 
-### 2️⃣ Updload the notebook (Gen_AI_Project_v4.ipynb) in the Google colab.
+### 2️⃣ Updload the notebook (Gen_AI_Project_v5.ipynb) in the Google colab.
 
 ### 3️⃣ Change your runtime type to T4 GPU
  
@@ -78,7 +78,7 @@ cd t5-genai-e2e-nlg](https://github.com/Alireza-Mirzadeh/GenAI-MR2Text.git)
 
 ## 📊 Dataset
 
-The **E2E NLG Challenge dataset** consists of meaning representations (MRs) paired with human-written natural language references.
+The **E2E NLG Challenge dataset** available at [ E2E NLG ](https://huggingface.co/datasets/GEM/e2e_nlg) consists of meaning representations (MRs) paired with human-written natural language references.
 
 Each record includes slot-value pairs such as:
 
@@ -287,7 +287,7 @@ Master’s student in Natural Language Processing, Université de Lorraine
 
 ##  Acknowledgements
 
-* [E2E NLG Challenge Dataset](https://github.com/tuetschek/e2e-dataset)
+* [E2E NLG Dataset](https://huggingface.co/datasets/GEM/e2e_nlg)
 * [Hugging Face Transformers](https://huggingface.co/transformers/)
 * [CTranslate2](https://github.com/OpenNMT/CTranslate2)
 * [Google-T5-Small](https://huggingface.co/google-t5/t5-small)
