@@ -54,11 +54,7 @@ The hypothesis is that explicit task framing in natural language helps the model
 cd t5-genai-e2e-nlg](https://github.com/Alireza-Mirzadeh/GenAI-MR2Text.git)
 ```
 
-### 2️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
+####  Dependencies are provided in the notebook for installation
 
 **Key dependencies:**
 
@@ -70,6 +66,13 @@ pip install -r requirements.txt
 * `pandas`
 * `matplotlib`
 * `tqdm`
+
+### 2️⃣ Updload the notebook (Gen_AI_Project_v4.ipynb) in the Google colab.
+
+### 3️⃣ Change your runtime type to T4 GPU
+ 
+### 4️⃣ Run the code from the first cell
+
 
 ---
 
