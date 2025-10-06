@@ -105,8 +105,8 @@ To understand the dataset before training, we performed:
 
 | Metric          | Visualization                                     |
 | --------------- | ------------------------------------------------- |
-| X  | ![X](plots/.png)    |
-| y | ![y](plots/.png) |
+| Distribution of Slots per MR  | ![Distribution of Slots per MR](t5-small-e2e_nlg_3epoch/plots/Distribution of Slots per MR.png)    |
+| Top 10 Keys | ![Top 10 Keys](t5-small-e2e_nlg_3epoch/plots/Top 10 Keys.png) |
 
 ---
 
@@ -256,6 +256,7 @@ The instruction-tuned model achieved:
 
 These gains suggest improved **fluency and meaning preservation**, even though lexical overlap (ROUGE) slightly decreased — likely due to more natural paraphrasing.
 
+![Baseline vs Instruct](t5-small-e2e_nlg_3epoch/plots/Baseline vs Instruct.png)
 ---
 
 ## 💬 Discussion
