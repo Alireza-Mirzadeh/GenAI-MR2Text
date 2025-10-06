@@ -1,4 +1,4 @@
-# T5-GenAI: Fine-Tuned T5-small for E2E Natural Language Generation
+# GenAI-MR2Text: Fine-Tuned T5-small for E2E Natural Language Generation
 
 ## 📘 Abstract
 
