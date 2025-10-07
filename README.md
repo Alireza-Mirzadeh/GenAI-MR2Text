@@ -278,9 +278,7 @@ Future work could explore:
 - **Alireza MIRZADEH**
 - **Austin TANGBAN**
 - **Muhammad TAYYAB**
-
-- **Submitted to:** Prof. Claire Gardent
-
+  
 Master’s student in Natural Language Processing, Université de Lorraine
 
 ---
